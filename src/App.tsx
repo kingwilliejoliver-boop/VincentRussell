@@ -720,7 +720,6 @@ function Footer() {
 
         <div className="flex gap-6 flex-wrap">
           {[
-            ["Instagram", "#"],
             ["Portfolio", "#portfolio"],
             ["Terms", "#terms"],
             ["Contact", "#contact"],
