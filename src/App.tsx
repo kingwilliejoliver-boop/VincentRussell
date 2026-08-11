@@ -493,7 +493,7 @@ function ContactForm() {
             style={{ fontFamily: "var(--font-display)" }}
             className="text-4xl md:text-5xl mb-6 leading-tight"
           >
-            Let"s create something{" "}
+            Let's create something{" "}
             <span className="italic">memorable</span>
           </h2>
           <p className="text-white/60 text-sm leading-relaxed mb-10 max-w-sm">
@@ -502,8 +502,8 @@ function ContactForm() {
           </p>
           <div className="flex flex-col gap-3 text-sm text-white/50">
             <span>📍 Amarillo, Texas — available statewide</span>
-            <span>✉️ hello@vincentrussell.com</span>
-            <span>📞 (806) 555-0192</span>
+            <span>✉️ shotbyvincentrussell@yahoo.com</span>
+            <span>📞 512-856-7097</span>
           </div>
         </div>
 
