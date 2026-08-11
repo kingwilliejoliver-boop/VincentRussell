@@ -131,7 +131,7 @@ function Nav() {
           style={{ fontFamily: "var(--font-display)" }}
           className="text-lg tracking-wide text-black"
         >
-          Vincent Russel
+          Vincent Russell
         </a>
 
         {/* Desktop nav */}
@@ -196,7 +196,7 @@ function Hero() {
     <section id="hero" className="relative min-h-screen flex items-end pb-20 overflow-hidden bg-black">
       <img
         src="https://images.unsplash.com/photo-1662532577856-e8ee8b138a8b?w=1600&h=1000&fit=crop&auto=format"
-        alt="Fashion editorial portrait — Vincent Russel Photography"
+        alt="Fashion editorial portrait — Vincent Russell Photography"
         className="absolute inset-0 w-full h-full object-cover opacity-50"
       />
       <div className="relative z-10 max-w-6xl mx-auto px-6 w-full">
@@ -209,7 +209,7 @@ function Hero() {
         >
           Vincent
           <br />
-          <span className="italic">Russel</span>
+          <span className="italic">Russell</span>
         </h1>
         <p className="text-white/70 text-base md:text-lg max-w-sm tracking-wide leading-relaxed">
           Lifestyle &amp; Fashion Photography — capturing the moments that define you.
@@ -317,7 +317,7 @@ function About() {
         <div className="relative">
           <img
             src="https://images.unsplash.com/photo-1718563072717-db22ef0c9434?w=700&h=900&fit=crop&auto=format"
-            alt="Fashion portrait — Vincent Russel Photography"
+            alt="Fashion portrait — Vincent Russell Photography"
             className="w-full object-cover bg-zinc-800"
           />
           <div className="absolute -bottom-4 -left-4 border border-white/20 w-full h-full pointer-events-none" />
@@ -502,7 +502,7 @@ function ContactForm() {
           </p>
           <div className="flex flex-col gap-3 text-sm text-white/50">
             <span>📍 Amarillo, Texas — available statewide</span>
-            <span>✉️ hello@vincentrussel.com</span>
+            <span>✉️ hello@vincentrussell.com</span>
             <span>📞 (806) 555-0192</span>
           </div>
         </div>
@@ -655,7 +655,7 @@ function Terms() {
                 A 50% non-refundable booking deposit is required to secure your session date. The remaining balance is due on the day of the shoot prior to commencement.
               </p>
               <p className="mb-3">
-                Accepted payment methods include major credit/debit cards, ACH bank transfer, and Cash App Pay. All card payments are processed securely through Stripe. Vincent Russel Photography does not store payment information.
+                Accepted payment methods include major credit/debit cards, ACH bank transfer, and Cash App Pay. All card payments are processed securely through Stripe. Vincent Russell Photography does not store payment information.
               </p>
               <p>
                 Prices are quoted in USD. Applicable Texas sales tax may be added at checkout where required by law.
@@ -671,7 +671,7 @@ function Terms() {
                 Cancellations within 7 days of the session: the deposit is forfeited and the full balance is due if notice is given fewer than 48 hours in advance.
               </p>
               <p>
-                Vincent Russel Photography reserves the right to reschedule due to severe weather, illness, or force majeure. A full rescheduling credit will be offered in such cases.
+                Vincent Russell Photography reserves the right to reschedule due to severe weather, illness, or force majeure. A full rescheduling credit will be offered in such cases.
               </p>
             </div>
 
@@ -684,7 +684,7 @@ function Terms() {
                 Images are licensed for personal use. Commercial licensing is available and must be agreed upon in the project proposal.
               </p>
               <p className="mb-3">
-                Vincent Russel Photography may use final images for portfolio and promotional purposes unless a privacy agreement is signed prior to the session.
+                Vincent Russell Photography may use final images for portfolio and promotional purposes unless a privacy agreement is signed prior to the session.
               </p>
               <p>
                 Personal data collected via this form (name, email, phone) is used solely to respond to your inquiry and manage your booking. Data is never sold to third parties. See our full{" "}
@@ -713,7 +713,7 @@ function Footer() {
             style={{ fontFamily: "var(--font-display)" }}
             className="text-base text-black"
           >
-            Vincent Russel Photography
+            Vincent Russell Photography
           </p>
           <p className="text-xs text-black/40 mt-1">Amarillo, Texas · Lifestyle &amp; Fashion</p>
         </div>
@@ -736,7 +736,7 @@ function Footer() {
         </div>
 
         <p className="text-xs text-black/30">
-          © {new Date().getFullYear()} Vincent Russel. All rights reserved.
+          © {new Date().getFullYear()} Vincent Russell. All rights reserved.
         </p>
       </div>
     </footer>
